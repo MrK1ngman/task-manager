@@ -1,15 +1,1 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+![Иллюстрация к проекту](https://github.com/task-manager/blob/main/raw/image_2025-01-26_22-37-25.png)
